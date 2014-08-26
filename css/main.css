@@ -2,7 +2,8 @@
 GENERAL
 ***********************************/
 body {
-  font-family: 'Open Sans', sans-serif;  
+  /* font-family: 'Open Sans', sans-serif; */
+  font: 400 1em/1.38 Lato;
 }
 
 
